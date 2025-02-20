@@ -3,3 +3,7 @@ https://script.googleusercontent.com/macros/echo?user_content_key=9VO0zP9ZcWIoI1
 ---
 
 NEW: https://script.googleusercontent.com/macros/echo?user_content_key=o-P85biO3JuQh5Apkr0EXuSKd9Y8lj9UbXMcS5qKha-hEGvfGnimfIEtGYFsGZgeM-kxvIHivkFi7N8fKYmQmgY8UJCqQHw-m5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnPxuwLovdwHJx-o2kYKP1Xcx5NmGboDi8M8dUBvgGb7ZR27R-QPU4URzeIvjmdOjft9VKEg4_dKr-SJvvocy7T2mvrYrhj0UfNz9Jw9Md8uu&lib=MYVb68gEuQvNz7Dh4ekpPQkhOIqPNGlb1
+
+---
+
+URLs instead of DL links: https://script.google.com/macros/s/AKfycbwsnSftoqBC7g-37aJaHRJ7rnuCRVKpMxTQ95BaH8AYh30M4XRb3XUu-5sLXnzw5r7cPw/exec
